@@ -1,0 +1,41 @@
+1. SQL and NoSQL
+   - mysql, SQL server (Queries)
+     group by, joins, case select , row number(), rank, cte, ctas
+   - NoSQL (Elastic search)
+     Aggregations, DSL, Indices data
+2. Data Warehousing
+   - Data Warehousing Design
+   - Data Warehousing Best Practices
+   - Data Warehousing Performance Tuning
+   - Data Warehousing Automation
+   - Data Warehousing Optimization
+3. Data Modeling
+   - Kimball/Inmon
+   - Facts/Dimensions
+   - Star schema/Snowflake schema
+   - Logical Data Model, Physical DM
+4. Data Integration
+   - Identifying sources 
+   - Data Ingestion strategies
+5. Data Quality Management
+   - Data Quality checks
+   - How to prevent ingestion of bad code
+6. Data Governance
+   - Data Gov strategies
+   - Use cases
+   - Databricks Unity Catalog
+7. ETL (Extract, Transform, Load)
+   - Design, Develp, Maintain, Optimize
+   - Schedule ETLs
+8. Data Visualization
+   - Kibana, Power BI
+9. Big Data Technologies 
+   - hadoop 
+   - spark (Pyspark)
+   - kafka
+10. Cloud Computing (Azure cloud)
+11. Data Security 
+12. Data Lake
+13. Data Architecture
+14. Data Mesh Architecture
+15. DevOps + DataOps
